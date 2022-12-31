@@ -2,4 +2,5 @@
 ### An LSTM Neural Network Model to translate Sign Language to English
 * * *
 >Capturing Real-Time Data
-<img src="https://github.com/ankush-003/Sign-Language-Translator/blob/main/output.png" alt="realtime detection" style="height:640px;width: 320px;" />
+
+![output](https://user-images.githubusercontent.com/94037471/210154971-0200802b-06cf-4122-b9c8-7f357abda6f5.png)
